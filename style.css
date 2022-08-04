@@ -29,3 +29,22 @@
     background-color: #464646;
     cursor: pointer;
 }
+
+.token_list_img, .token_image {
+    width: 40px;
+}
+
+.modal-body {
+    height: 600px;
+    overflow: scroll;
+}
+
+.token_row {
+    padding: 5px 10px;
+}
+
+.token_row:hover {
+    background-color: #e4e4e4;
+    cursor: pointer;
+}
+
