@@ -8,13 +8,13 @@
 }
 
 .token_select {
-    padding: 5px 0;
+    padding: 5px 5px;
 }
 
 .token_select:hover {
     background-color: #464646;
     cursor: pointer;
-    padding: 5px 0;
+    padding: 5px 5px;
 }
 
 
